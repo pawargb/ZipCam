@@ -22,7 +22,7 @@ SpaceSaver ("we" or "our") operates the SpaceSaver mobile application. This poli
 ## 5. Contact Us
 - For questions, email: pawargb.2071990@gmail.com
 
-We may update this policy. Check this page or the hosted version at [https://yourusername.github.io/SpaceSaver-Privacy/](https://yourusername.github.io/SpaceSaver-Privacy/) for the latest version.
+We may update this policy. Check this page or the hosted version at [https://yourusername.github.io/SpaceSaver-Privacy/](https://pawargb.github.io/ZipCam/) for the latest version.
 
 ---
 
