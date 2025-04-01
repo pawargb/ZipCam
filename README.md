@@ -1,8 +1,8 @@
-# SpaceSaver Privacy Policy
+# ZipCam Privacy Policy
 
-**Last Updated: March 23, 2025**
+**Last Updated: April 1, 2025**
 
-SpaceSaver ("we" or "our") operates the SpaceSaver mobile application. This policy outlines how we handle your data.
+ZipCam ("we" or "our") operates the ZipCam mobile application. This policy outlines how we handle your data.
 
 ## 1. Information We Collect
 - **Camera Access**: To capture photos.
